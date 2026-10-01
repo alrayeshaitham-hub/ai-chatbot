@@ -1,0 +1,7 @@
+{
+  "name": "Nova - AI Chatbot",
+  "description": "A high-performance, intelligent AI chatbot powered by Google Gemini with real-time streaming, search grounding, voice synthesis, multi-turn conversations, and document analysis.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
